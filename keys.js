@@ -1,0 +1,3 @@
+var accessKey="lprMN2K8cW0haBoWWjP9JBZDS5Stukq_XFXxk4GPQ54";
+
+var secretKey="0e5hihZZ7oZxHDXGeu8VYBDAibCd61vZ00pMDO8obt0";
